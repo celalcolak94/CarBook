@@ -24,6 +24,8 @@
   <li>Context sınıfı yazıldı ve migration işlemi gerçekleştirildi.</li>
   <li>IRepository interface ve Repository sınıfı yazıldı.</li>
   <li>About ve Banner için CQRS işlemleri yapıldı, Apiler yazıldı ve başarılı bir şekilde test edildi.</li>
-  <li></li>
+  <li>Brand, Category ve Contact sınıfları için CQRS işlemleri yapıldı. Apiler yazıldı ve başarılı bir şekilde test edildi.</li>
+  <li>Car sınıfı için CQRS işlemleri yapıldı ve entity özgü method yazılarak Include ile Brand sınıfıyla birlikte listelendi.</li>
+  <li>MediatR kütüphanesi Application katmanına dahil edildi. Feature sınıfı için Mediator Design Pattern işlemleri yapıldı. Apiler yazıldı ve başarılı bir şekilde test edildi.</li>
 </ol>
 <h2>Proje Görselleri</h2>
