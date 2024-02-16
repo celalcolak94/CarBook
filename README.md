@@ -27,5 +27,7 @@
   <li>Brand, Category ve Contact sınıfları için CQRS işlemleri yapıldı. Apiler yazıldı ve başarılı bir şekilde test edildi.</li>
   <li>Car sınıfı için CQRS işlemleri yapıldı ve entity özgü method yazılarak Include ile Brand sınıfıyla birlikte listelendi.</li>
   <li>MediatR kütüphanesi Application katmanına dahil edildi. Feature sınıfı için Mediator Design Pattern işlemleri yapıldı. Apiler yazıldı ve başarılı bir şekilde test edildi.</li>
+  <li>Location, Service, Pricing, SocialMedia, FooterAddress sınıfları mimariye dahil edildi. Mediator Design Pattern işlemleri yapıldı. Apiler yazıldı ve test edildi.</li>
+  <li>Frontend katmanı projeye eklendi. Tema ViewComponentler aracılığıyla oluşturuldu.</li>
 </ol>
 <h2>Proje Görselleri</h2>
