@@ -2,7 +2,7 @@
 
 namespace CarBook.WebUI.ViewComponents.AboutViewComponents
 {
-    public class _AboutBecomeADriverComponentPartial : ViewComponent
+    public class _BecomeADriverComponentPartial : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
