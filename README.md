@@ -29,5 +29,7 @@
   <li>MediatR kütüphanesi Application katmanına dahil edildi. Feature sınıfı için Mediator Design Pattern işlemleri yapıldı. Apiler yazıldı ve başarılı bir şekilde test edildi.</li>
   <li>Location, Service, Pricing, SocialMedia, FooterAddress sınıfları mimariye dahil edildi. Mediator Design Pattern işlemleri yapıldı. Apiler yazıldı ve test edildi.</li>
   <li>Frontend katmanı projeye eklendi. Tema ViewComponentler aracılığıyla oluşturuldu.</li>
+  <li>Aurhor, Blog, Car, Testimonial sınıfları mimariye dahil edildi. Mediator Design Pattern işlemleri yapıldı. Apiler yazıldı ve test edildi.</li>
+  <li>Son 3 blog ve son 5 araç gibi entity özgü methodlar yazıldı. Include methodu ile blogların yazarları, araçların markaları çekildi. WebUI katmanında başarılı bir şekilde listelendi.</li>
 </ol>
 <h2>Proje Görselleri</h2>
